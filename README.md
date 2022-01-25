@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📊 Data scientist with a particular interest in predictive modeling, NLP, and image information processing
+
+🏎️ Dream project: How Tesla conducts real-time analysis from the 360-degree footage captured from the 8 internal cabin cameras that have been installed in each car
+
+🧪 Current life: Data science graduate at BloomTech. Former life: Statistics (MS) and Chemical Engineering (BS)
+
+📲 Contact me on LinkedIn[https://www.linkedin.com/in/xianshi-wei-720a7212b/] or email[xianshiwei@gmail.com] / How to reach me 📧
