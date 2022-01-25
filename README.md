@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 🧪 Current life: Data science graduate at BloomTech. Former life: Statistics (MS) and Chemical Engineering (BS)
 
-📲 Contact me on LinkedIn<a href=”https://www.linkedin.com/in/xianshi-wei-720a7212b/”>[] 
+📲 Contact me on (LinkedIn)[https://www.linkedin.com/in/xianshi-wei-720a7212b/] 
 📧 email[xianshiwei@gmail.com]
